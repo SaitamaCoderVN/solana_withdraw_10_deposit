@@ -35,9 +35,7 @@ This project implements a smart contract on the Solana blockchain that enables:
 
 Use the deployment script in `migrations/deploy.ts`:
 
-    ```
-    anchor deploy
-    ```
+   anchor deploy
 
 ## Technologies Used
 
